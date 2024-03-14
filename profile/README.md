@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Main Banner](../GDSC_Banner.png)
+![Main Banner](./GDSC_Banner.png)
 
 Welcome to the official page of the Google Developer Student Club (GDSC) at GEC. We're a community of tech enthusiasts, united by a passion for innovation and learning. Our GDSC chapter is your gateway to a world of collaboration, creativity, and real-world impact.
 
